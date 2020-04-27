@@ -15,4 +15,4 @@ and change it to
 ```
 #### Wiring:
 
-![alt text](https://imgur.com/a/70zpHAC "Wiring Diagram")
+![alt text](https://i.imgur.com/TqUbKWa.png "Wiring Diagram")
