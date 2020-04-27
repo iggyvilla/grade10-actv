@@ -4,8 +4,6 @@ School Chit System using Arduinos
 
 Uploaded by Iggy Villa 
 
----
-
 **Clarification:**
 Business Office Module code is the same as Canteen Module, just edit the code to rename it at 
 ```c++
