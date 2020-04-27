@@ -1,5 +1,5 @@
-# Expo Group 10-ACTV
-### School Chit System using Arduinos
+### Expo Group 10-ACTV
+#### School Chit System using Arduinos
 
 Uploaded by Iggy Villa 
 
