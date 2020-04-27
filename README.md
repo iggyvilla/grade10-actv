@@ -14,4 +14,4 @@ and change it to
 64.   lcd.print("Canteen Module");
 ```
 #### Wiring:
-![alt text](https://imgur.com/a/V0GJDtY "Image Wiring")
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/70zpHAC" data-context="false" ><a href="//imgur.com/a/70zpHAC"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
