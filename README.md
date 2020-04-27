@@ -13,3 +13,5 @@ and change it to
 ```c++
 64.   lcd.print("Canteen Module");
 ```
+#### Wiring:
+![alt text](https://imgur.com/a/V0GJDtY "Image Wiring")
