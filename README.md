@@ -1,4 +1,4 @@
-# Expo Group 10-ACTV
+# HEDCen Expo Group 10-ACTV 2019-2020
 
 *School Chit System using Arduinos*
 
