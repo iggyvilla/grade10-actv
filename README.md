@@ -17,3 +17,5 @@ and change it to
 #### Wiring:
 
 ![alt text](https://i.imgur.com/TqUbKWa.png "Wiring Diagram")
+
+Warning: The code is very, very unfinished. Pleae fix everything before testing on real people!
