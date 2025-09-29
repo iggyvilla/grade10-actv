@@ -1,3 +1,7 @@
+> [!WARNING]  
+> I made this when I was Grade 10, and knew nothing about ucontrollers/coding. This is more for archiving purposes and is very, very unfinished. Pleae fix everything before testing on real people!
+
+
 # HEDCen Expo Group 10-ACTV 2019-2020
 
 *School Chit System using Arduinos*
@@ -17,5 +21,3 @@ and change it to
 #### Wiring:
 
 ![alt text](https://i.imgur.com/TqUbKWa.png "Wiring Diagram")
-
-Warning: The code is very, very unfinished. Pleae fix everything before testing on real people!
